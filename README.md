@@ -1,6 +1,6 @@
 # fork-practice
 
-So, do you want to learn how to frok a repo? You can! 
+So, do you want to learn how to fork(1) a repo? You can! 
 
 1. Fork this repo
 2. Create a branch off of main called `add-folder`
